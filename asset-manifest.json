@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Neeleshxd/pomodoro-timer/static/css/main.2a68475d.css",
-    "main.js": "/Neeleshxd/pomodoro-timer/static/js/main.d777a3f5.js",
-    "static/js/453.0a9a0de8.chunk.js": "/Neeleshxd/pomodoro-timer/static/js/453.0a9a0de8.chunk.js",
-    "static/media/pexels-alex-montes-1820563.jpg": "/Neeleshxd/pomodoro-timer/static/media/pexels-alex-montes-1820563.cf23e7c4f9f151357002.jpg",
-    "index.html": "/Neeleshxd/pomodoro-timer/index.html",
-    "main.2a68475d.css.map": "/Neeleshxd/pomodoro-timer/static/css/main.2a68475d.css.map",
-    "main.d777a3f5.js.map": "/Neeleshxd/pomodoro-timer/static/js/main.d777a3f5.js.map",
-    "453.0a9a0de8.chunk.js.map": "/Neeleshxd/pomodoro-timer/static/js/453.0a9a0de8.chunk.js.map"
+    "main.css": "/pomodoro-timer/static/css/main.14f5a5fd.css",
+    "main.js": "/pomodoro-timer/static/js/main.83afbb89.js",
+    "static/js/453.0a9a0de8.chunk.js": "/pomodoro-timer/static/js/453.0a9a0de8.chunk.js",
+    "static/media/pexels-alex-montes-1820563.jpg": "/pomodoro-timer/static/media/pexels-alex-montes-1820563.cf23e7c4f9f151357002.jpg",
+    "index.html": "/pomodoro-timer/index.html",
+    "main.14f5a5fd.css.map": "/pomodoro-timer/static/css/main.14f5a5fd.css.map",
+    "main.83afbb89.js.map": "/pomodoro-timer/static/js/main.83afbb89.js.map",
+    "453.0a9a0de8.chunk.js.map": "/pomodoro-timer/static/js/453.0a9a0de8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a68475d.css",
-    "static/js/main.d777a3f5.js"
+    "static/css/main.14f5a5fd.css",
+    "static/js/main.83afbb89.js"
   ]
 }
