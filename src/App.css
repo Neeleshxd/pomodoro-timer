@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+:root{
+  --red:#ff5e5e;
+  --green:#4cd964;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-image: url('./pexels-alex-montes-1820563.jpg');
+  background-size: cover; /* Scale the image to cover the entire body */
+  background-position: center; /* Center the image */
+  color: #eee;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+main{
+  padding-top:50px;
+  max-width:340px;
+  margin:0 auto;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+button{
+  background-color: transparent;
+  color:rgba(255,255,255,0.7);
+  border:0;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
 }
-
-.App-link {
-  color: #61dafb;
+button.width-text{
+  width:auto;
+  background-color:rgba(255,255,255,0.1) ;
+  border-radius: 10px 20px;
+  padding :10px 20px;
+  font-size:1.4rem;
+  line-height: 36px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button.width-text svg{
+  width:36px;
+  float:left;
+  margin-right:10px;
+}
+label{
+  display:block;
 }
